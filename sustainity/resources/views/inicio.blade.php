@@ -32,7 +32,7 @@
         <p>Una aventura inolvidable te espera en un mundo de píxeles. Explora, lucha y descubre los secretos de esta tierra mística.</p>
         <button class="play-btn">Descargar Demo</button>
     </div>
-    <img src="images/Daryl_detenido.png" alt="Personaje" class="character-image">
+    <img src="images/Descargaaaa.png" alt="Personaje" class="character-image">
 </div>
 
 <div class="card-section">

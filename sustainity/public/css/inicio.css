@@ -168,7 +168,7 @@ p {
     width: 500px;
     height: auto;
     z-index: 2;
-    transform: rotate(-10deg);
+    transform: rotate(10deg);
     image-rendering: pixelated;
 }
 
